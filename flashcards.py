@@ -22,3 +22,4 @@ def count_views():
     global counter
     counter += 1
     return "This page was served " +str(counter) + " times"
+
